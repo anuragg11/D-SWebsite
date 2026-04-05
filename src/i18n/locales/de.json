@@ -1,0 +1,317 @@
+{
+    "site": {
+        "name": "Dhanraj & Söhne",
+        "tagline": "Chiasamen-Exporteur",
+        "cta": {
+            "getQuote": "Angebot erhalten"
+        }
+    },
+    "nav": {
+        "home": "Startseite",
+        "about": "Über uns",
+        "products": "Produkte",
+        "certifications": "Zertifizierungen",
+        "contact": "Kontakt",
+        "languageDropdown": {
+            "en": "Englisch",
+            "hi": "Hindi",
+            "ar": "Arabisch",
+            "fr": "Französisch",
+            "es": "Spanisch",
+            "de": "Deutsch"
+        }
+    },
+    "home": {
+        "hero": {
+            "title": "Dhanraj und Söhne",
+            "subtitle": "CHIASAMEN",
+            "description": "Gesundheit in die Welt exportieren",
+            "buttons": {
+                "viewProducts": "Produkte ansehen",
+                "contactUs": "Kontaktieren Sie uns"
+            }
+        },
+        "whyChoose": {
+            "title": "Warum uns wählen",
+            "subtitle": "Wir sind verpflichtet, Chiasamen von höchster Qualität an Märkte weltweit zu liefern",
+            "cards": [
+                {
+                    "title": "Qualitätssicherung",
+                    "desc": "Strenge Qualitätskontrollen in jeder Phase der Produktion und Verpackung"
+                },
+                {
+                    "title": "Globale Lieferung",
+                    "desc": "Effizienter Versand in über 50 Länder mit zuverlässigen Logistikpartnern"
+                },
+                {
+                    "title": "Saubere Verpackung",
+                    "desc": "Lebensmittelgerechte Verpackung, die Frische bewahrt und internationale Standards erfüllt"
+                },
+                {
+                    "title": "Wettbewerbsfähige Preise",
+                    "desc": "Bestes Preis-Leistungs-Verhältnis ohne Kompromisse bei der Qualität, direkt von der Quelle"
+                }
+            ]
+        },
+        "premium": {
+            "tag": "SUPERFOOD DER NATUR",
+            "title": "Premium Chiasamen",
+            "points": [
+                "Reich an Omega-3-Fettsäuren",
+                "Hoher Ballaststoffgehalt für die Verdauungsgesundheit",
+                "Vollständiges Protein mit allen essentiellen Aminosäuren",
+                "Vollgepackt mit Antioxidantien und Mineralien"
+            ],
+            "button": "Mehr erfahren",
+            "badge": "100% Natürlich"
+        },
+        "exportProcess": {
+            "title": "Unser Exportprozess",
+            "subtitle": "Von der Anfrage bis zur Lieferung gewährleisten wir eine nahtlose Exporterfahrung",
+            "steps": [
+                {
+                    "title": "Anfrage",
+                    "desc": "Teilen Sie uns Ihre Anforderungen mit"
+                },
+                {
+                    "title": "Qualitätskontrolle",
+                    "desc": "Strenge Tests und Qualitätssicherung"
+                },
+                {
+                    "title": "Verpackung",
+                    "desc": "Individuelle Verpackung nach Ihren Bedürfnissen"
+                },
+                {
+                    "title": "Versand",
+                    "desc": "Sichere und pünktliche weltweite Lieferung"
+                }
+            ]
+        },
+        "cta": {
+            "title": "Möchten Sie ein Exportangebot für Chiasamen in Großmengen?",
+            "subtitle": "Erhalten Sie wettbewerbsfähige Preise für Ihre Großhandelsanforderungen",
+            "button": "Jetzt kontaktieren"
+        },
+        "testimonials": {
+            "title": "Was unsere Kunden sagen",
+            "subtitle": "Vertraut von Importeuren weltweit",
+            "list": [
+                {
+                    "quote": "Ausgezeichnete Qualität der Chiasamen mit prompter Lieferung. Dhanraj und Söhne ist seit 3 Jahren unser zuverlässiger Lieferant.",
+                    "name": "Ahmed Al-Rashid",
+                    "company": "Dubai Natural Foods"
+                },
+                {
+                    "quote": "Die Verpackungsqualität und Produktkonsistenz ist hervorragend. Sehr empfehlenswert für Großbestellungen.",
+                    "name": "Sarah Mitchell",
+                    "company": "Organic Imports UK"
+                },
+                {
+                    "quote": "Bestes Preis-Leistungs-Verhältnis auf dem Markt. Ihr Kundenservice ist außergewöhnlich.",
+                    "name": "Carlos Rodriguez",
+                    "company": "Health Foods Spain"
+                }
+            ]
+        },
+        "faq": {
+            "title": "Häufig gestellte Fragen",
+            "subtitle": "Alles, was Sie über unseren Chiasamen-Export wissen müssen",
+            "questions": [
+                {
+                    "q": "Was ist die Mindestbestellmenge (MOQ)?",
+                    "a": "Die MOQ hängt vom Verpackungstyp ab. Im Allgemeinen unterstützen wir Großbestellungen ab 500 kg. Kontaktieren Sie uns für individuelle Anforderungen."
+                },
+                {
+                    "q": "In welche Länder exportieren Sie?",
+                    "a": "Wir exportieren in mehrere Regionen einschließlich VAE, Europa, USA und andere internationale Märkte je nach Käuferanforderungen."
+                },
+                {
+                    "q": "Welche Zertifizierungen haben Ihre Produkte?",
+                    "a": "Wir stellen Exportdokumentation und Zertifizierungen gemäß den Anforderungen des Importlandes zur Verfügung. Details finden Sie im Abschnitt Zertifizierungen."
+                },
+                {
+                    "q": "Wie wird verpackt?",
+                    "a": "Wir verwenden lebensmittelechte Verpackungen mit Optionen wie 25 kg, 50 kg Großgebinden und kundenspezifischer Verpackung nach Käuferbedürfnissen."
+                },
+                {
+                    "q": "Was sind die Zahlungsbedingungen?",
+                    "a": "Die Zahlungsbedingungen hängen von der Bestellgröße und dem Zielort ab. Normalerweise unterstützen wir Vorauszahlung, LC oder gegenseitig vereinbarte Bedingungen."
+                },
+                {
+                    "q": "Wie lange dauert der Versand?",
+                    "a": "Die Versandzeit variiert je nach Land und Logistikmodus. Typischerweise 7-25 Tage je nach Zielort."
+                }
+            ]
+        }
+    },
+    "about": {
+        "hero": {
+            "title": "Über uns",
+            "subtitle": "Unsere Reise der Exzellenz im Chiasamen-Export"
+        },
+        "story": {
+            "title": "Unsere Geschichte",
+            "desc": "Dhanraj und Söhne wurde mit der Vision gegründet, die feinsten Chiasamen von indischen Farmen zu globalen Märkten zu bringen. Mit jahrzehntelanger Erfahrung im Agrarhandel haben wir uns als vertrauenswürdiger Name im Chiasamen-Export etabliert."
+        },
+        "mission": {
+            "title": "Unsere Mission",
+            "desc": "Die höchste Qualität von Chiasamen zu liefern, während wir nachhaltige Landwirtschaftspraktiken beibehalten und dauerhafte Partnerschaften mit unseren globalen Kunden aufbauen."
+        },
+        "vision": {
+            "title": "Unsere Vision",
+            "desc": "Der führende Chiasamen-Exporteur aus Indien zu werden, weltweit anerkannt für Qualität, Zuverlässigkeit und ethische Geschäftspraktiken."
+        },
+        "values": {
+            "title": "Unsere Werte",
+            "cards": [
+                {
+                    "title": "Integrität",
+                    "desc": "Ehrliche und transparente Geschäftspraktiken",
+                    "icon": "❤"
+                },
+                {
+                    "title": "Qualität",
+                    "desc": "Kompromisslose Verpflichtung zur Produktexzellenz",
+                    "icon": "🛡"
+                },
+                {
+                    "title": "Geschwindigkeit",
+                    "desc": "Effiziente Verarbeitung und pünktliche Lieferung",
+                    "icon": "⚡"
+                },
+                {
+                    "title": "Vertrauen",
+                    "desc": "Aufbau dauerhafter Beziehungen mit Partnern",
+                    "icon": "🤝"
+                }
+            ]
+        }
+    },
+    "products": {
+        "items": [
+            {
+                "title": "Schwarze Chiasamen",
+                "desc": "Premium-Qualität schwarze Chiasamen mit hohem Nährwert",
+                "image": "/src/assets/black-chia.jpg"
+            },
+            {
+                "title": "Weiße Chiasamen",
+                "desc": "Hochwertige weiße Chiasamen, perfekt zum Mischen",
+                "image": "/src/assets/white-chia.jpg"
+            },
+            {
+                "title": "Großverpackung",
+                "desc": "Erhältlich in 25kg und 50kg Säcken für Großabnehmer",
+                "image": "/src/assets/bulk-packaging.jpg"
+            },
+            {
+                "title": "Eigenmarke",
+                "desc": "Individuelle Verpackung mit Ihrer Marke für Einzelhandelsmärkte",
+                "image": "/src/assets/private-label.jpg"
+            }
+        ],
+        "cta": {
+            "title": "Möchten Sie ein Exportangebot für Chiasamen in Großmengen?",
+            "subtitle": "Erhalten Sie wettbewerbsfähige Preise für Ihre Großhandelsanforderungen",
+            "button": "Jetzt kontaktieren"
+        },
+        "specs": {
+            "title": "Produktspezifikationen",
+            "items": [
+                {
+                    "key": "Feuchtigkeit",
+                    "value": "< 7%"
+                },
+                {
+                    "key": "Reinheit",
+                    "value": "99,5%+"
+                },
+                {
+                    "key": "Verpackungstyp",
+                    "value": "20kg / 25kg / 30kg / 40kg / 50kg PP Säcke"
+                },
+                {
+                    "key": "Herkunft",
+                    "value": "Indien"
+                },
+                {
+                    "key": "Mindestbestellmenge",
+                    "value": "500 kg"
+                }
+            ]
+        }
+    },
+    "certifications": {
+        "title": "Unsere Zertifizierungen",
+        "subtitle": "Qualitätssicherung durch internationale Zertifizierungen",
+        "clickToView": "Klicken Sie, um das Zertifikat anzuzeigen",
+        "list": [
+            {
+                "title": "IEC-Zertifikat",
+                "desc": "Import-Export-Code - Regierung von Indien"
+            },
+            {
+                "title": "FSSAI-Zertifizierung",
+                "desc": "Indische Behörde für Lebensmittelsicherheit und Standards"
+            },
+            {
+                "title": "Export-Anerkennung",
+                "desc": "Anerkannt vom Export Promotion Council"
+            },
+            {
+                "title": "Labortestbericht",
+                "desc": "Qualitäts- und Reinheitsprüfungszertifikat"
+            }
+        ]
+    },
+    "contactPage": {
+        "title": "Kontaktieren Sie uns",
+        "subtitle": "Kontaktieren Sie uns für Anfragen und Angebote",
+        "actions": {
+            "whatsapp": "Auf WhatsApp chatten",
+            "email": "E-Mail senden"
+        },
+        "cards": {
+            "phone": {
+                "label": "Telefon",
+                "value": "+91 96642XXXXX"
+            },
+            "email": {
+                "label": "E-Mail",
+                "value": "testmail@gmail.com"
+            },
+            "address": {
+                "label": "Adresse",
+                "value": "Indien"
+            }
+        }
+    },
+    "footer": {
+        "about": {
+            "title": "Dhanraj & Söhne",
+            "subtitle": "Chiasamen-Exporteur",
+            "description": "Führender Exporteur von Premium-Qualität Chiasamen von Indien in die Welt. Verpflichtet zu Qualität, Nachhaltigkeit und Kundenzufriedenheit."
+        },
+        "quickLinks": {
+            "title": "Schnelllinks",
+            "home": "Startseite",
+            "about": "Über uns",
+            "products": "Produkte",
+            "certifications": "Zertifizierungen",
+            "contact": "Kontakt"
+        },
+        "contact": {
+            "title": "Kontaktieren Sie uns",
+            "phoneLabel": "Telefon",
+            "emailLabel": "E-Mail",
+            "addressLabel": "Adresse",
+            "phone": "+91 96642XXXXX",
+            "email": "testmail920@gmail.com",
+            "address": "Indien"
+        },
+        "highlight": {
+            "title": "Gesundheit in die Welt exportieren"
+        },
+        "copyright": "© Dhanraj und Söhne — Alle Rechte vorbehalten"
+    }
+}

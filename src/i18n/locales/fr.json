@@ -1,0 +1,322 @@
+{
+    "site": {
+        "name": "Dhanraj & Fils",
+        "tagline": "Exportateur de graines de chia",
+        "cta": {
+            "getQuote": "Obtenir un devis"
+        }
+    },
+    "nav": {
+        "home": "Accueil",
+        "about": "À propos",
+        "products": "Produits",
+        "certifications": "Certifications",
+        "contact": "Contact",
+        "languageDropdown": {
+            "en": "Anglais",
+            "hi": "Hindi",
+            "ar": "Arabe",
+            "fr": "Français",
+            "es": "Espagnol",
+            "de": "Allemand"
+        }
+    },
+    "home": {
+        "hero": {
+            "title": "Dhanraj et Fils",
+            "subtitle": "GRAINES DE CHIA",
+            "description": "Exporter la santé dans le monde",
+            "buttons": {
+                "viewProducts": "Voir les produits",
+                "contactUs": "Contactez-nous"
+            }
+        },
+        "whyChoose": {
+            "title": "Pourquoi nous choisir",
+            "subtitle": "Nous nous engageons à livrer les graines de chia de la plus haute qualité aux marchés du monde entier",
+            "cards": [
+                {
+                    "title": "Assurance qualité",
+                    "desc": "Contrôles de qualité rigoureux à chaque étape de la production et de l'emballage"
+                },
+                {
+                    "title": "Livraison mondiale",
+                    "desc": "Expédition efficace vers plus de 50 pays avec des partenaires logistiques fiables"
+                },
+                {
+                    "title": "Emballage propre",
+                    "desc": "Emballage de qualité alimentaire qui préserve la fraîcheur et respecte les normes internationales"
+                },
+                {
+                    "title": "Prix compétitifs",
+                    "desc": "Meilleur rapport qualité-prix sans compromettre la qualité, directement de la source"
+                }
+            ]
+        },
+        "premium": {
+            "tag": "SUPER ALIMENT DE LA NATURE",
+            "title": "Graines de chia premium",
+            "points": [
+                "Riche en acides gras oméga-3",
+                "Teneur élevée en fibres pour la santé digestive",
+                "Protéine complète avec tous les acides aminés essentiels",
+                "Rempli d'antioxydants et de minéraux"
+            ],
+            "button": "En savoir plus",
+            "badge": "100% Naturel"
+        },
+        "exportProcess": {
+            "title": "Notre processus d'exportation",
+            "subtitle": "De la demande à la livraison, nous garantissons une expérience d'exportation sans faille",
+            "steps": [
+                {
+                    "title": "Demande",
+                    "desc": "Partagez vos besoins avec nous"
+                },
+                {
+                    "title": "Contrôle qualité",
+                    "desc": "Tests rigoureux et assurance qualité"
+                },
+                {
+                    "title": "Emballage",
+                    "desc": "Emballage personnalisé selon vos besoins"
+                },
+                {
+                    "title": "Expédition",
+                    "desc": "Livraison mondiale sûre et ponctuelle"
+                }
+            ]
+        },
+        "cta": {
+            "title": "Vous voulez un devis d'exportation de graines de chia en gros?",
+            "subtitle": "Obtenez des prix compétitifs pour vos besoins en gros",
+            "button": "Contactez-nous maintenant"
+        },
+        "testimonials": {
+            "title": "Ce que disent nos clients",
+            "subtitle": "Fait confiance par les importateurs du monde entier",
+            "list": [
+                {
+                    "quote": "Excellente qualité de graines de chia avec une livraison rapide. Dhanraj et Fils est notre fournisseur fiable depuis 3 ans.",
+                    "name": "Ahmed Al-Rashid",
+                    "company": "Dubai Natural Foods"
+                },
+                {
+                    "quote": "La qualité d'emballage et la consistance du produit sont exceptionnelles. Hautement recommandé pour les commandes en gros.",
+                    "name": "Sarah Mitchell",
+                    "company": "Organic Imports UK"
+                },
+                {
+                    "quote": "Meilleur rapport qualité-prix sur le marché. Leur service client est exceptionnel.",
+                    "name": "Carlos Rodriguez",
+                    "company": "Health Foods Spain"
+                }
+            ]
+        },
+        "faq": {
+            "title": "Questions fréquemment posées",
+            "subtitle": "Tout ce que vous devez savoir sur notre exportation de graines de chia",
+            "questions": [
+                {
+                    "q": "Quelle est la quantité minimale de commande (MOQ)?",
+                    "a": "La MOQ dépend du type d'emballage. Généralement, nous soutenons les commandes en gros à partir de 500 kg. Contactez-nous pour des besoins personnalisés."
+                },
+                {
+                    "q": "Dans quels pays exportez-vous?",
+                    "a": "Nous exportons vers plusieurs régions, notamment les Émirats arabes unis, l'Europe, les États-Unis et d'autres marchés internationaux selon les besoins de l'acheteur."
+                },
+                {
+                    "q": "Quelles certifications vos produits possèdent-ils?",
+                    "a": "Nous fournissons la documentation d'exportation et les certifications requises par le pays importateur. Les détails sont disponibles dans la section Certifications."
+                },
+                {
+                    "q": "Comment l'emballage est-il effectué?",
+                    "a": "Nous utilisons un emballage de qualité alimentaire avec des options comme des sacs en vrac de 25 kg, 50 kg et un emballage personnalisé selon les besoins de l'acheteur."
+                },
+                {
+                    "q": "Quelles sont les conditions de paiement?",
+                    "a": "Les conditions de paiement dépendent de la taille de la commande et de la destination. Habituellement, nous soutenons le paiement anticipé, LC ou des conditions mutuellement convenues."
+                },
+                {
+                    "q": "Combien de temps prend l'expédition?",
+                    "a": "Le temps d'expédition varie selon le pays et le mode logistique. Généralement 7 à 25 jours selon la destination."
+                }
+            ]
+        }
+    },
+    "about": {
+        "hero": {
+            "title": "À propos de nous",
+            "subtitle": "Notre parcours d'excellence dans l'exportation de graines de chia"
+        },
+        "story": {
+            "title": "Notre histoire",
+            "desc": "Dhanraj et Fils a été fondée avec la vision d'apporter les graines de chia de la meilleure qualité des fermes indiennes aux marchés mondiaux. Avec des décennies d'expérience dans le commerce agricole, nous nous sommes établis comme un nom de confiance dans l'exportation de graines de chia."
+        },
+        "mission": {
+            "title": "Notre mission",
+            "desc": "Fournir des graines de chia de la plus haute qualité tout en maintenant des pratiques agricoles durables et en construisant des partenariats durables avec nos clients mondiaux."
+        },
+        "vision": {
+            "title": "Notre vision",
+            "desc": "Devenir le principal exportateur de graines de chia d'Inde, reconnu mondialement pour la qualité, la fiabilité et les pratiques commerciales éthiques."
+        },
+        "values": {
+            "title": "Nos valeurs",
+            "cards": [
+                {
+                    "title": "Intégrité",
+                    "desc": "Pratiques commerciales honnêtes et transparentes",
+                    "icon": "❤"
+                },
+                {
+                    "title": "Qualité",
+                    "desc": "Engagement sans compromis pour l'excellence du produit",
+                    "icon": "🛡"
+                },
+                {
+                    "title": "Rapidité",
+                    "desc": "Traitement efficace et livraison ponctuelle",
+                    "icon": "⚡"
+                },
+                {
+                    "title": "Confiance",
+                    "desc": "Construire des relations durables avec les partenaires",
+                    "icon": "🤝"
+                }
+            ]
+        }
+    },
+    "products": {
+        "hero": {
+            "title": "Nos produits",
+            "subtitle": "Graines de chia de qualité supérieure pour chaque besoin"
+        },
+        "requestQuote": "Demander un devis",
+        "items": [
+            {
+                "title": "Graines de chia noires",
+                "desc": "Graines de chia noires de qualité supérieure à haute valeur nutritionnelle",
+                "image": "/src/assets/black-chia.jpg"
+            },
+            {
+                "title": "Graines de chia blanches",
+                "desc": "Graines de chia blanches de qualité supérieure, parfaites pour le mélange",
+                "image": "/src/assets/white-chia.jpg"
+            },
+            {
+                "title": "Emballage en vrac",
+                "desc": "Disponible en sacs de 25 kg et 50 kg pour les acheteurs en gros",
+                "image": "/src/assets/bulk-packaging.jpg"
+            },
+            {
+                "title": "Marque privée",
+                "desc": "Emballage personnalisé avec votre marque pour les marchés de détail",
+                "image": "/src/assets/private-label.jpg"
+            }
+        ],
+        "cta": {
+            "title": "Vous voulez un devis d'exportation de graines de chia en gros?",
+            "subtitle": "Obtenez des prix compétitifs pour vos besoins en gros",
+            "button": "Contactez-nous maintenant"
+        },
+        "specs": {
+            "title": "Spécifications du produit",
+            "items": [
+                {
+                    "key": "Humidité",
+                    "value": "< 7%"
+                },
+                {
+                    "key": "Pureté",
+                    "value": "99,5%+"
+                },
+                {
+                    "key": "Type d'emballage",
+                    "value": "Sacs PP 20kg / 25kg / 30kg / 40kg / 50kg"
+                },
+                {
+                    "key": "Origine",
+                    "value": "Inde"
+                },
+                {
+                    "key": "Quantité minimale de commande",
+                    "value": "500 kg"
+                }
+            ]
+        }
+    },
+    "certifications": {
+        "title": "Nos certifications",
+        "subtitle": "Assurance qualité grâce aux certifications internationales",
+        "clickToView": "Cliquez pour voir le certificat",
+        "list": [
+            {
+                "title": "Certificat IEC",
+                "desc": "Code Import Export - Gouvernement de l'Inde"
+            },
+            {
+                "title": "Certification FSSAI",
+                "desc": "Autorité de sécurité alimentaire et des normes de l'Inde"
+            },
+            {
+                "title": "Reconnaissance à l'exportation",
+                "desc": "Reconnu par le Conseil de promotion des exportations"
+            },
+            {
+                "title": "Rapport de test de laboratoire",
+                "desc": "Certificat de vérification de la qualité et de la pureté"
+            }
+        ]
+    },
+    "contactPage": {
+        "title": "Contactez-nous",
+        "subtitle": "Contactez-nous pour des demandes et des devis",
+        "actions": {
+            "whatsapp": "Discuter sur WhatsApp",
+            "email": "Nous envoyer un email"
+        },
+        "cards": {
+            "phone": {
+                "label": "Téléphone",
+                "value": "+91 96642XXXXX"
+            },
+            "email": {
+                "label": "Email",
+                "value": "testmail@gmail.com"
+            },
+            "address": {
+                "label": "Adresse",
+                "value": "Inde"
+            }
+        }
+    },
+    "footer": {
+        "about": {
+            "title": "Dhanraj & Fils",
+            "subtitle": "Exportateur de graines de chia",
+            "description": "Principal exportateur de graines de chia de qualité supérieure de l'Inde vers le monde. Engagé envers la qualité, la durabilité et la satisfaction du client."
+        },
+        "quickLinks": {
+            "title": "Liens rapides",
+            "home": "Accueil",
+            "about": "À propos",
+            "products": "Produits",
+            "certifications": "Certifications",
+            "contact": "Contact"
+        },
+        "contact": {
+            "title": "Contactez-nous",
+            "phoneLabel": "Téléphone",
+            "emailLabel": "Email",
+            "addressLabel": "Adresse",
+            "phone": "+91 96642XXXXX",
+            "email": "testmail920@gmail.com",
+            "address": "Inde"
+        },
+        "highlight": {
+            "title": "Exporter la santé dans le monde"
+        },
+        "copyright": "© Dhanraj et Fils — Tous droits réservés"
+    }
+}

@@ -1,0 +1,16 @@
+/* src/index.css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@media (max-width: 800px) {
+  .certGrid {
+    grid-template-columns: 1fr !important;
+  }
+}

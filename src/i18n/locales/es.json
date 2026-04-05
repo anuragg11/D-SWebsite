@@ -1,0 +1,322 @@
+{
+    "site": {
+        "name": "Dhanraj e Hijos",
+        "tagline": "Exportador de semillas de chía",
+        "cta": {
+            "getQuote": "Obtener cotización"
+        }
+    },
+    "nav": {
+        "home": "Inicio",
+        "about": "Acerca de",
+        "products": "Productos",
+        "certifications": "Certificaciones",
+        "contact": "Contacto",
+        "languageDropdown": {
+            "en": "Inglés",
+            "hi": "Hindi",
+            "ar": "Árabe",
+            "fr": "Francés",
+            "es": "Español",
+            "de": "Alemán"
+        }
+    },
+    "home": {
+        "hero": {
+            "title": "Dhanraj e Hijos",
+            "subtitle": "SEMILLAS DE CHÍA",
+            "description": "Exportando salud al mundo",
+            "buttons": {
+                "viewProducts": "Ver productos",
+                "contactUs": "Contáctanos"
+            }
+        },
+        "whyChoose": {
+            "title": "Por qué elegirnos",
+            "subtitle": "Estamos comprometidos a entregar semillas de chía de la más alta calidad a mercados de todo el mundo",
+            "cards": [
+                {
+                    "title": "Garantía de calidad",
+                    "desc": "Controles de calidad rigurosos en cada etapa de producción y empaquetado"
+                },
+                {
+                    "title": "Entrega global",
+                    "desc": "Envío eficiente a más de 50 países con socios logísticos confiables"
+                },
+                {
+                    "title": "Empaque limpio",
+                    "desc": "Empaque de grado alimenticio que preserva la frescura y cumple con los estándares internacionales"
+                },
+                {
+                    "title": "Precios competitivos",
+                    "desc": "Mejor valor sin comprometer la calidad, directo desde la fuente"
+                }
+            ]
+        },
+        "premium": {
+            "tag": "SUPERALIMENTO DE LA NATURALEZA",
+            "title": "Semillas de chía premium",
+            "points": [
+                "Rico en ácidos grasos omega-3",
+                "Alto contenido de fibra para la salud digestiva",
+                "Proteína completa con todos los aminoácidos esenciales",
+                "Lleno de antioxidantes y minerales"
+            ],
+            "button": "Saber más",
+            "badge": "100% Natural"
+        },
+        "exportProcess": {
+            "title": "Nuestro proceso de exportación",
+            "subtitle": "Desde la consulta hasta la entrega, aseguramos una experiencia de exportación sin problemas",
+            "steps": [
+                {
+                    "title": "Consulta",
+                    "desc": "Comparte tus requisitos con nosotros"
+                },
+                {
+                    "title": "Control de calidad",
+                    "desc": "Pruebas rigurosas y garantía de calidad"
+                },
+                {
+                    "title": "Empaque",
+                    "desc": "Empaque personalizado según sus necesidades"
+                },
+                {
+                    "title": "Envío",
+                    "desc": "Entrega global segura y puntual"
+                }
+            ]
+        },
+        "cta": {
+            "title": "¿Quiere cotización de exportación de semillas de chía al por mayor?",
+            "subtitle": "Obtenga precios competitivos para sus requisitos al por mayor",
+            "button": "Contáctanos ahora"
+        },
+        "testimonials": {
+            "title": "Lo que dicen nuestros clientes",
+            "subtitle": "Confianza de importadores de todo el mundo",
+            "list": [
+                {
+                    "quote": "Excelente calidad de semillas de chía con entrega rápida. Dhanraj e Hijos ha sido nuestro proveedor confiable durante 3 años.",
+                    "name": "Ahmed Al-Rashid",
+                    "company": "Dubai Natural Foods"
+                },
+                {
+                    "quote": "La calidad del empaque y la consistencia del producto son excepcionales. Muy recomendable para pedidos al por mayor.",
+                    "name": "Sarah Mitchell",
+                    "company": "Organic Imports UK"
+                },
+                {
+                    "quote": "La mejor relación precio-calidad del mercado. Su servicio al cliente es excepcional.",
+                    "name": "Carlos Rodríguez",
+                    "company": "Alimentos Saludables España"
+                }
+            ]
+        },
+        "faq": {
+            "title": "Preguntas frecuentes",
+            "subtitle": "Todo lo que necesita saber sobre nuestra exportación de semillas de chía",
+            "questions": [
+                {
+                    "q": "¿Cuál es la cantidad mínima de pedido (MOQ)?",
+                    "a": "El MOQ depende del tipo de empaque. Generalmente, apoyamos pedidos al por mayor a partir de 500 kg. Contáctenos para requisitos personalizados."
+                },
+                {
+                    "q": "¿A qué países exportan?",
+                    "a": "Exportamos a múltiples regiones incluyendo EAU, Europa, EE.UU. y otros mercados internacionales según los requisitos del comprador."
+                },
+                {
+                    "q": "¿Qué certificaciones tienen sus productos?",
+                    "a": "Proporcionamos documentación de exportación y certificaciones según lo requiera el país importador. Los detalles están disponibles en la sección de Certificaciones."
+                },
+                {
+                    "q": "¿Cómo se realiza el empaque?",
+                    "a": "Utilizamos empaque de grado alimenticio con opciones como bolsas a granel de 25 kg, 50 kg y empaque personalizado según las necesidades del comprador."
+                },
+                {
+                    "q": "¿Cuáles son los términos de pago?",
+                    "a": "Los términos de pago dependen del tamaño del pedido y el destino. Por lo general, apoyamos el pago por adelantado, LC o términos mutuamente acordados."
+                },
+                {
+                    "q": "¿Cuánto tiempo toma el envío?",
+                    "a": "El tiempo de envío varía según el país y el modo logístico. Típicamente de 7 a 25 días dependiendo del destino."
+                }
+            ]
+        }
+    },
+    "about": {
+        "hero": {
+            "title": "Acerca de nosotros",
+            "subtitle": "Nuestro viaje de excelencia en la exportación de semillas de chía"
+        },
+        "story": {
+            "title": "Nuestra historia",
+            "desc": "Dhanraj e Hijos fue fundada con la visión de llevar semillas de chía de la mejor calidad desde las granjas indias a los mercados globales. Con décadas de experiencia en comercio agrícola, nos hemos establecido como un nombre de confianza en la exportación de semillas de chía."
+        },
+        "mission": {
+            "title": "Nuestra misión",
+            "desc": "Proporcionar semillas de chía de la más alta calidad mientras mantenemos prácticas agrícolas sostenibles y construimos asociaciones duraderas con nuestros clientes globales."
+        },
+        "vision": {
+            "title": "Nuestra visión",
+            "desc": "Convertirnos en el principal exportador de semillas de chía de India, reconocido mundialmente por calidad, confiabilidad y prácticas comerciales éticas."
+        },
+        "values": {
+            "title": "Nuestros valores",
+            "cards": [
+                {
+                    "title": "Integridad",
+                    "desc": "Prácticas comerciales honestas y transparentes",
+                    "icon": "❤"
+                },
+                {
+                    "title": "Calidad",
+                    "desc": "Compromiso inquebrantable con la excelencia del producto",
+                    "icon": "🛡"
+                },
+                {
+                    "title": "Velocidad",
+                    "desc": "Procesamiento eficiente y entrega puntual",
+                    "icon": "⚡"
+                },
+                {
+                    "title": "Confianza",
+                    "desc": "Construir relaciones duraderas con socios",
+                    "icon": "🤝"
+                }
+            ]
+        }
+    },
+    "products": {
+        "hero": {
+            "title": "Nuestros productos",
+            "subtitle": "Semillas de chía de calidad premium para cada requisito"
+        },
+        "requestQuote": "Solicitar cotización",
+        "items": [
+            {
+                "title": "Semillas de chía negras",
+                "desc": "Semillas de chía negras de calidad premium con alto valor nutricional",
+                "image": "/src/assets/black-chia.jpg"
+            },
+            {
+                "title": "Semillas de chía blancas",
+                "desc": "Semillas de chía blancas de grado superior, perfectas para mezclar",
+                "image": "/src/assets/white-chia.jpg"
+            },
+            {
+                "title": "Empaque a granel",
+                "desc": "Disponible en bolsas de 25kg y 50kg para compradores mayoristas",
+                "image": "/src/assets/bulk-packaging.jpg"
+            },
+            {
+                "title": "Marca privada",
+                "desc": "Empaque personalizado con su marca para mercados minoristas",
+                "image": "/src/assets/private-label.jpg"
+            }
+        ],
+        "cta": {
+            "title": "¿Quiere cotización de exportación de semillas de chía al por mayor?",
+            "subtitle": "Obtenga precios competitivos para sus requisitos al por mayor",
+            "button": "Contáctanos ahora"
+        },
+        "specs": {
+            "title": "Especificaciones del producto",
+            "items": [
+                {
+                    "key": "Humedad",
+                    "value": "< 7%"
+                },
+                {
+                    "key": "Pureza",
+                    "value": "99.5%+"
+                },
+                {
+                    "key": "Tipo de empaque",
+                    "value": "Bolsas PP de 20kg / 25kg / 30kg / 40kg / 50kg"
+                },
+                {
+                    "key": "Origen",
+                    "value": "India"
+                },
+                {
+                    "key": "Cantidad mínima de pedido",
+                    "value": "500 kg"
+                }
+            ]
+        }
+    },
+    "certifications": {
+        "title": "Nuestras certificaciones",
+        "subtitle": "Garantía de calidad a través de certificaciones internacionales",
+        "clickToView": "Haga clic para ver el certificado",
+        "list": [
+            {
+                "title": "Certificado IEC",
+                "desc": "Código de importación y exportación - Gobierno de India"
+            },
+            {
+                "title": "Certificación FSSAI",
+                "desc": "Autoridad de Seguridad Alimentaria y Estándares de India"
+            },
+            {
+                "title": "Reconocimiento de exportación",
+                "desc": "Reconocido por el Consejo de Promoción de Exportaciones"
+            },
+            {
+                "title": "Informe de prueba de laboratorio",
+                "desc": "Certificado de verificación de calidad y pureza"
+            }
+        ]
+    },
+    "contactPage": {
+        "title": "Contáctanos",
+        "subtitle": "Póngase en contacto para consultas y cotizaciones",
+        "actions": {
+            "whatsapp": "Chatear en WhatsApp",
+            "email": "Envíanos un correo"
+        },
+        "cards": {
+            "phone": {
+                "label": "Teléfono",
+                "value": "+91 96642XXXXX"
+            },
+            "email": {
+                "label": "Correo electrónico",
+                "value": "testmail@gmail.com"
+            },
+            "address": {
+                "label": "Dirección",
+                "value": "India"
+            }
+        }
+    },
+    "footer": {
+        "about": {
+            "title": "Dhanraj e Hijos",
+            "subtitle": "Exportador de semillas de chía",
+            "description": "Principal exportador de semillas de chía de calidad premium de India al mundo. Comprometidos con la calidad, sostenibilidad y satisfacción del cliente."
+        },
+        "quickLinks": {
+            "title": "Enlaces rápidos",
+            "home": "Inicio",
+            "about": "Acerca de",
+            "products": "Productos",
+            "certifications": "Certificaciones",
+            "contact": "Contacto"
+        },
+        "contact": {
+            "title": "Contáctanos",
+            "phoneLabel": "Teléfono",
+            "emailLabel": "Correo",
+            "addressLabel": "Dirección",
+            "phone": "+91 96642XXXXX",
+            "email": "testmail920@gmail.com",
+            "address": "India"
+        },
+        "highlight": {
+            "title": "Exportando salud al mundo"
+        },
+        "copyright": "© Dhanraj e Hijos — Todos los derechos reservados"
+    }
+}

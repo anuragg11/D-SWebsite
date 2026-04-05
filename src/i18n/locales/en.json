@@ -1,0 +1,322 @@
+{
+    "site": {
+        "name": "Dhanraj & Sons",
+        "tagline": "CHIA SEEDS Exporter",
+        "cta": {
+            "getQuote": "Get Quote"
+        }
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "products": "Products",
+        "certifications": "Certifications",
+        "contact": "Contact",
+        "languageDropdown": {
+            "en": "English",
+            "hi": "Hindi",
+            "ar": "Arabic",
+            "fr": "French",
+            "es": "Spanish",
+            "de": "German"
+        }
+    },
+    "home": {
+        "hero": {
+            "title": "Dhanraj and Sons",
+            "subtitle": "CHIA SEEDS",
+            "description": "Exporting Health to the World",
+            "buttons": {
+                "viewProducts": "View Products",
+                "contactUs": "Contact Us"
+            }
+        },
+        "whyChoose": {
+            "title": "Why Choose Us",
+            "subtitle": "We are committed to delivering the highest quality chia seeds to markets worldwide",
+            "cards": [
+                {
+                    "title": "Quality Assurance",
+                    "desc": "Rigorous quality checks at every stage of production and packaging"
+                },
+                {
+                    "title": "Global Delivery",
+                    "desc": "Efficient shipping to over 50+ countries with reliable logistics partners"
+                },
+                {
+                    "title": "Clean Packaging",
+                    "desc": "Food-grade packaging that preserves freshness and meets international standards"
+                },
+                {
+                    "title": "Competitive Pricing",
+                    "desc": "Best value without compromising on quality, direct from source"
+                }
+            ]
+        },
+        "premium": {
+            "tag": "NATURE'S SUPERFOOD",
+            "title": "Premium Chia Seeds",
+            "points": [
+                "Rich in Omega-3 fatty acids",
+                "High fiber content for digestive health",
+                "Complete protein with all essential amino acids",
+                "Packed with antioxidants and minerals"
+            ],
+            "button": "Learn More",
+            "badge": "100% Natural"
+        },
+        "exportProcess": {
+            "title": "Our Export Process",
+            "subtitle": "From inquiry to delivery, we ensure seamless export experience",
+            "steps": [
+                {
+                    "title": "Inquiry",
+                    "desc": "Share your requirements with us"
+                },
+                {
+                    "title": "Quality Check",
+                    "desc": "Rigorous testing and quality assurance"
+                },
+                {
+                    "title": "Packaging",
+                    "desc": "Custom packaging as per your needs"
+                },
+                {
+                    "title": "Shipping",
+                    "desc": "Safe and timely global delivery"
+                }
+            ]
+        },
+        "cta": {
+            "title": "Want Bulk Chia Seeds Export Quotation?",
+            "subtitle": "Get competitive pricing for your wholesale requirements",
+            "button": "Contact Us Now"
+        },
+        "testimonials": {
+            "title": "What Our Clients Say",
+            "subtitle": "Trusted by importers worldwide",
+            "list": [
+                {
+                    "quote": "Excellent quality chia seeds with prompt delivery. Dhanraj and Sons has been our reliable supplier for 3 years.",
+                    "name": "Ahmed Al-Rashid",
+                    "company": "Dubai Natural Foods"
+                },
+                {
+                    "quote": "The packaging quality and product consistency is outstanding. Highly recommended for bulk orders.",
+                    "name": "Sarah Mitchell",
+                    "company": "Organic Imports UK"
+                },
+                {
+                    "quote": "Best pricing and quality ratio in the market. Their customer service is exceptional.",
+                    "name": "Carlos Rodriguez",
+                    "company": "Health Foods Spain"
+                }
+            ]
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "subtitle": "Everything you need to know about our chia seeds export",
+            "questions": [
+                {
+                    "q": "What is the minimum order quantity (MOQ)?",
+                    "a": "MOQ depends on packaging type. Generally, we support bulk orders starting from 500kg. Contact us for custom requirements."
+                },
+                {
+                    "q": "Which countries do you export to?",
+                    "a": "We export to multiple regions including UAE, Europe, USA and other international markets depending on buyer requirements."
+                },
+                {
+                    "q": "What certifications do your products have?",
+                    "a": "We provide export documentation and certifications as required by the importing country. Details are available in the Certifications section."
+                },
+                {
+                    "q": "How is the packaging done?",
+                    "a": "We use food-grade packaging with options like 25kg, 50kg bulk bags and customized packaging as per buyer needs."
+                },
+                {
+                    "q": "What are the payment terms?",
+                    "a": "Payment terms depend on order size and destination. Usually we support advance payment, LC, or mutually agreed terms."
+                },
+                {
+                    "q": "How long does shipping take?",
+                    "a": "Shipping time varies by country and logistics mode. Typically 7–25 days depending on destination."
+                }
+            ]
+        }
+    },
+    "about": {
+        "hero": {
+            "title": "About Us",
+            "subtitle": "Our journey of excellence in chia seeds export"
+        },
+        "story": {
+            "title": "Our Story",
+            "desc": "Dhanraj and Sons was founded with a vision to bring the finest quality chia seeds from Indian farms to global markets. With decades of experience in agricultural trade, we have established ourselves as a trusted name in chia seeds export."
+        },
+        "mission": {
+            "title": "Our Mission",
+            "desc": "To provide the highest quality chia seeds while maintaining sustainable farming practices and building lasting partnerships with our global clients."
+        },
+        "vision": {
+            "title": "Our Vision",
+            "desc": "To become the leading chia seeds exporter from India, recognized worldwide for quality, reliability, and ethical business practices."
+        },
+        "values": {
+            "title": "Our Values",
+            "cards": [
+                {
+                    "title": "Integrity",
+                    "desc": "Honest and transparent business practices",
+                    "icon": "❤"
+                },
+                {
+                    "title": "Quality",
+                    "desc": "Uncompromising commitment to product excellence",
+                    "icon": "🛡"
+                },
+                {
+                    "title": "Speed",
+                    "desc": "Efficient processing and timely delivery",
+                    "icon": "⚡"
+                },
+                {
+                    "title": "Trust",
+                    "desc": "Building lasting relationships with partners",
+                    "icon": "🤝"
+                }
+            ]
+        }
+    },
+    "products": {
+        "hero": {
+            "title": "Our Products",
+            "subtitle": "Premium quality chia seeds for every requirement"
+        },
+        "requestQuote": "Request Quote",
+        "items": [
+            {
+                "title": "Black Chia Seeds",
+                "desc": "Premium quality black chia seeds with high nutritional value",
+                "image": "/src/assets/black-chia.jpg"
+            },
+            {
+                "title": "White Chia Seeds",
+                "desc": "Superior grade white chia seeds, perfect for blending",
+                "image": "/src/assets/white-chia.jpg"
+            },
+            {
+                "title": "Bulk Packaging",
+                "desc": "Available in 25kg and 50kg bags for wholesale buyers",
+                "image": "/src/assets/bulk-packaging.jpg"
+            },
+            {
+                "title": "Private Label",
+                "desc": "Custom packaging with your brand for retail markets",
+                "image": "/src/assets/private-label.jpg"
+            }
+        ],
+        "cta": {
+            "title": "Want Bulk Chia Seeds Export Quotation?",
+            "subtitle": "Get competitive pricing for your wholesale requirements",
+            "button": "Contact Us Now"
+        },
+        "specs": {
+            "title": "Product Specifications",
+            "items": [
+                {
+                    "key": "Moisture",
+                    "value": "< 7%"
+                },
+                {
+                    "key": "Purity",
+                    "value": "99.5%+"
+                },
+                {
+                    "key": "Packaging Type",
+                    "value": "20kg / 25kg/ 30kg / 40kg / 50kg PP Bags"
+                },
+                {
+                    "key": "Origin",
+                    "value": "India"
+                },
+                {
+                    "key": "Minimum Order Quantity",
+                    "value": "500 kg"
+                }
+            ]
+        }
+    },
+    "certifications": {
+        "title": "Our Certifications",
+        "subtitle": "Quality assurance through international certifications",
+        "clickToView": "Click to view certificate",
+        "list": [
+            {
+                "title": "IEC Certificate",
+                "desc": "Import Export Code - Government of India"
+            },
+            {
+                "title": "FSSAI Certification",
+                "desc": "Food Safety and Standards Authority of India"
+            },
+            {
+                "title": "Export Recognition",
+                "desc": "Recognized by Export Promotion Council"
+            },
+            {
+                "title": "Lab Test Report",
+                "desc": "Quality and purity verification certificate"
+            }
+        ]
+    },
+    "contactPage": {
+        "title": "Contact Us",
+        "subtitle": "Get in touch for inquiries and quotations",
+        "actions": {
+            "whatsapp": "Chat on WhatsApp",
+            "email": "Email Us"
+        },
+        "cards": {
+            "phone": {
+                "label": "Phone",
+                "value": "+91 96642XXXXX"
+            },
+            "email": {
+                "label": "Email",
+                "value": "testmail@gmail.com"
+            },
+            "address": {
+                "label": "Address",
+                "value": "India"
+            }
+        }
+    },
+    "footer": {
+        "about": {
+            "title": "Dhanraj & Sons",
+            "subtitle": "CHIA SEEDS Exporter",
+            "description": "Leading exporter of premium quality chia seeds from India to the world. Committed to quality, sustainability, and customer satisfaction."
+        },
+        "quickLinks": {
+            "title": "Quick Links",
+            "home": "Home",
+            "about": "About",
+            "products": "Products",
+            "certifications": "Certifications",
+            "contact": "Contact"
+        },
+        "contact": {
+            "title": "Contact Us",
+            "phoneLabel": "Phone",
+            "emailLabel": "Email",
+            "addressLabel": "Address",
+            "phone": "+91 96642XXXXX",
+            "email": "testmail920@gmail.com",
+            "address": "India"
+        },
+        "highlight": {
+            "title": "Exporting Health to the World"
+        },
+        "copyright": "© Dhanraj and Sons — All rights reserved"
+    }
+}
